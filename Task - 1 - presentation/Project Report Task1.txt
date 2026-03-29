@@ -1,3 +1,12 @@
-For this assignment, I developed a design to depict email etiquettes and how to follow safe practices when surfing on the internet. My design highlights three critical areas: Essential Digital Tools (incorporating Cool Text for design and TechGig for technical skill-building), Professional Email Etiquette (focusing on clear subject lines and the "BLUF" rule), and Safe Internet Practices (emphasizing multi-factor authentication and data ethics).
+For this assignment, I developed a design to depict email etiquettes and how to follow safe
+practices when surfing on the internet. My design highlights three critical areas: Essential
+Digital Tools (incorporating Cool Text for design and TechGig for technical skill-building),
+Professional Email Etiquette (focusing on clear subject lines and the "BLUF" rule), and Safe
+Internet Practices (emphasizing multi-factor authentication and data ethics).
 
-One aspect I found particularly interesting during this project was the challenge of "information density." In engineering, we often deal with complex data, but t I also enjoyed experimenting with Cool Text to create a distinct header, which showed me how simple digital tools can significantly improve the professional look of a project. This task helped me bridge the gap between technical knowledge and effective visual communication, which is a vital skill for presenting future AI/ML projects.
+One aspect I found particularly interesting during this project was the challenge of 
+"information density." In engineering, we often deal with complex data, but t I also enjoyed
+experimenting with Cool Text to create a distinct header, which showed me how simple digital
+tools can significantly improve the professional look of a project. This task helped me 
+bridge the gap between technical knowledge and effective visual communication, which is a
+vital skill for presenting future AI/ML projects.
