@@ -4,10 +4,12 @@ This repository contains all the tasks completed for the Digital Literacy course
 
 ## Project Tasks
 
+
+## Task 1:Presentation
 * [Task 01: Presentation](./Task%20-%201%20-%20presentation)
 
 
-
+## Task 2:Portfolio
 * [Task 02: Portfolio](./Task%20-%202%20-%20Portfolio)
 
 
@@ -19,6 +21,7 @@ This repository contains all the tasks completed for the Digital Literacy course
 * **HackerRank Profile:** Successfully completed the Python 'Hello World' challenge.
 
 
+## Task 4: Email Etiquette
 * [Task 04: Email Etiquette](./Task-4-email-etiquette)
 
 
