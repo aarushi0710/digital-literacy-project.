@@ -41,6 +41,7 @@ developing these skills.
 
 ## Task 2:Portfolio
 * [Task 02: Portfolio](./Task%20-%202%20-%20Portfolio)
+  
 *Summary: Developed a professional digital presence. This module covered the creation of a
 personal portfolio to showcase academic projects, skills, and career objectives.
 
