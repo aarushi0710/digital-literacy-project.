@@ -1,11 +1,31 @@
 # Digital Literacy Project
 
 
-**Name:** Aarushi 
-**University:** VIT Bhopal
+**Name:** Aarushi Srivastava
+**Registration No:** 25BAI10536
 **Degree:** B.Tech CSE (AIML)
 
 This repository contains all the tasks completed for the Digital Literacy course.
+
+
+Core Objectives:
+
+*Professional Identity: Building a verified presence on GitHub and LinkedIn to showcase 
+technical projects.
+
+*Digital Communication: Mastering the art of professional storytelling through presentations
+and formal email etiquette.
+
+*Security & Ethics: Understanding the landscape of cybercrime and implementing best 
+practices for data privacy.
+
+*Documentation: Learning to use Markdown and Version Control (Git) to organize and present
+academic work effectively.
+
+Each folder in this repository contains a specific "Task" that represents a milestone in 
+developing these skills.
+
+
 
 
 ## Project Tasks
@@ -46,22 +66,6 @@ clear, respectful, and effective emails for academic and corporate environments
 security.
 
 
-Core Objectives:
-
-*Professional Identity: Building a verified presence on GitHub and LinkedIn to showcase 
-technical projects.
-
-*Digital Communication: Mastering the art of professional storytelling through presentations
-and formal email etiquette.
-
-*Security & Ethics: Understanding the landscape of cybercrime and implementing best 
-practices for data privacy.
-
-*Documentation: Learning to use Markdown and Version Control (Git) to organize and present
-academic work effectively.
-
-Each folder in this repository contains a specific "Task" that represents a milestone in 
-developing these skills.
 
 
 Submitted for the Digital Literacy Coursework - March 2026
