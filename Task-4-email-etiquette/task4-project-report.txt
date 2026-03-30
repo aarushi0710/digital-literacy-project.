@@ -1,4 +1,27 @@
-In a real-world academic setting, a student once sent an urgent email to their professor regarding a missed mid-term exam due to a medical emergency. However, the student sent the email from a personal account with a casual username, used no subject line, and wrote the message in short forms e.g., "sir plz help i misd exam cuz i'm sick". Because the email lacked a clear subject and came from an unrecognized address, it was automatically filtered into the professor’s spam folder. By the time the student followed up a week later, the deadline for a compensating exam had passed, resulting in a failing grade for that component.
+In a real-world academic setting, a student once sent an urgent email to their professor regarding a
+
+missed mid-term exam due to a medical emergency. However, the student sent the email from a personal
+
+account with a casual username, used no subject line, and wrote the message in short forms e.g., 
+
+"sir plz help i misd exam cuz i'm sick". Because the email lacked a clear subject and came from an
+
+unrecognized address, it was automatically filtered into the professor’s spam folder. By the time 
+
+the student followed up a week later, the deadline for a compensating exam had passed, resulting in
+
+a failing grade for that component.
 
 What could have been done differently?
-The student should have used their official university email address to let the teacher know their identity and credibility. Most importantly, they should have included a descriptive subject line, such as 'Urgent: Makeup Exam Request'to show urgency which would have caught the professor's attention. Using a formal salutation and clear, professional language would have ensured the email was treated with the necessary priority. Proper digital etiquette ensures that critical messages are seen, understood, and acted upon within time.
+
+The student should have used their official university email address to let the teacher know their
+
+identity and credibility. Most importantly, they should have included a descriptive subject line, 
+
+such as 'Urgent: Makeup Exam Request'to show urgency which would have caught the professor's 
+
+attention. Using a formal salutation and clear, professional language would have ensured the email
+
+was treated with the necessary priority. Proper digital etiquette ensures that critical messages
+
+are seen, understood, and acted upon within time.
